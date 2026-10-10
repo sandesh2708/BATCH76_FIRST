@@ -12,3 +12,11 @@ def fxnsub(s1,s2):
 
 print(fxnsub(10,3))
 
+#changes made locally to check is it occuring in github or not
+
+def fx(name):
+    return name
+
+print(fx("Python_Project")) 
+
+
