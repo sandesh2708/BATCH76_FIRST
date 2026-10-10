@@ -1,9 +1,9 @@
 #task : to design a function to add two numbers.
 
-def fxnadd(n1,n2):
-    return n1+n2
+def fxnadd(n1,n2,n3):
+    return n1+n2+n3
 
-print(fxnadd (7,10))    
+print(fxnadd (7,10,20))    
 
 #Task to design a function to substract two numbers. 
 
